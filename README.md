@@ -39,6 +39,12 @@ and turning ideas into functional products.
 <!-- GitHub statistics and contribution graph -->
 
 ## CONTRIBUTION SNAKE
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/sushantsolves/sushantsolves/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</div>
 
 <!-- Contribution snake animation will go here -->
 
